@@ -1,0 +1,70 @@
+# 📝 Todo List App
+
+A simple and clean todo list application built with vanilla JavaScript. Stay organized and manage your daily tasks efficiently.
+
+![Todo App Screenshot](./assets/screenshot.png)
+
+## ✨ Features
+
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 💾 Data persistence with LocalStorage
+- 📱 Responsive design
+- ⌨️ Keyboard support (Enter key)
+
+## 🚀 Demo
+
+[Live Demo](https://SIZIN-USERNAME.github.io/todo-list-app)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- LocalStorage API
+
+## 📦 Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/SIZIN-USERNAME/todo-list-app.git
+```
+
+2. Navigate to the project directory
+```bash
+cd todo-list-app
+```
+
+3. Open `index.html` in your browser
+```bash
+open index.html
+```
+
+## 💡 What I Learned
+
+- DOM manipulation and event handling
+- Working with LocalStorage API
+- Creating dynamic elements with JavaScript
+- Event delegation pattern
+- CSS flexbox and responsive design
+- Git workflow and version control
+
+## 🎯 Future Improvements
+
+- [ ] Add task categories
+- [ ] Add due dates
+- [ ] Add task priority levels
+- [ ] Add search/filter functionality
+- [ ] Add dark mode
+
+## 👨‍💻 Author
+
+**Elman Muradov**
+
+- GitHub: [@SIZIN-USERNAME](https://github.com/SIZIN-USERNAME)
+- LinkedIn: [Your Name](your-linkedin-url)
+
+## 📄 License
+
+This project is open source and available under the MIT License.
