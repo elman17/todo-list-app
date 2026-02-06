@@ -15,7 +15,7 @@ A simple and clean todo list application built with vanilla JavaScript. Stay org
 
 ## 🚀 Demo
 
-[Live Demo](https://SIZIN-USERNAME.github.io/todo-list-app)
+[Live Demo](https://elman17.github.io/todo-list-app/)
 
 ## 🛠️ Technologies Used
 
@@ -28,7 +28,7 @@ A simple and clean todo list application built with vanilla JavaScript. Stay org
 
 1. Clone the repository
 ```bash
-git clone https://github.com/SIZIN-USERNAME/todo-list-app.git
+git clone https://github.com/elman17/todo-list-app.git
 ```
 
 2. Navigate to the project directory
@@ -60,11 +60,15 @@ open index.html
 
 ## 👨‍💻 Author
 
-**Elman Muradov**
+**Almaz Muradov**
 
-- GitHub: [@SIZIN-USERNAME](https://github.com/SIZIN-USERNAME)
-- LinkedIn: [Your Name](your-linkedin-url)
+- GitHub: [@elman17](https://github.com/elman17)
+- LinkedIn: [Almaz Muradov](https://www.linkedin.com/in/almaz-muradov/)
 
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+---
+
+⭐ If you find this project useful, give it a star!
